@@ -1,4 +1,4 @@
-The behavioral interview is an interviewing technique that employers use to evaluate a potential employee.
+The behavioral interview is an interviewing technique that employers use to evaluate a potential employee.
 To accelerate the recruiting process and make recruiting on
 a simple scale while improving the applicant experience. This
 proposed model automatically analyses and predicts the nonverbal characteristics of an interviewee and also provides relevant
